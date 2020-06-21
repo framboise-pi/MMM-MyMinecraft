@@ -1,0 +1,29 @@
+{
+  "name": "mmm-myminecraft",
+  "version": "0.0.1",
+  "description": "MagicMirror2 display Minecraft servers infos",
+  "main": "MMM-MyMinecraft.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framboise-pi/MMM-MyMinecraft.git"
+  },
+  "keywords": [
+    "MMM",
+    "MagicMirror",
+    "MagicMirror2",
+    "Raspberry",
+    "Minecraft"
+  ],
+  "author": "Cedric Camille Lafontaine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/framboise-pi/MMM-MyMinecraft/issues"
+  },
+  "homepage": "https://github.com/framboise-pi/MMM-MyMinecraft#readme",
+  "dependencies": {
+    "minecraft-protocol": "^1.12.2"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.11.0"
+  }
+}

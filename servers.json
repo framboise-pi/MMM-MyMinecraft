@@ -1,0 +1,12 @@
+{
+	"servers" :	[
+		["Pi local server","192.168.1.103","25565"],
+		["FRENCH SKY","frenchsky.net","25565"],
+		["FREE BUILD.FR","play.freebuild.fr","25565"],
+		["BLOOD SYMPHONY","mc.bloodsymphony.com","25565"],
+		["PIXWORLD","play.pixworld.fr","25565"],
+		["BATTLE ADVENTURE","play.battle-adventure.eu","25565"],
+		["POLITICRAFT","play.politicraft.fr","25565"],
+		["THAMOS","play.thamos.fr","25565"]
+	]
+}

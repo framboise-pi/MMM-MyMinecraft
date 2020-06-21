@@ -1,0 +1,44 @@
+.MMM-MyMinecraft div.container {
+    margin: 0px;
+    padding: 0px;
+}
+
+.MMM-MyMinecraft table td.error {
+  background-color: #FF5050;
+  font-size: 50%;
+  font-weight: 100;
+}
+
+.MMM-MyMinecraft table td.players {
+  background-color: #121212;
+  font-size: 80%;
+  font-weight: 100;
+}
+
+.MMM-MyMinecraft table td.latency {
+  background-color: #121212;
+  font-size: 50%;
+  font-weight: 200;
+}
+
+.MMM-MyMinecraft table td.protocol {
+  background-color: #303030;
+  font-size: 50%;
+  font-weight: 100;
+}
+
+.MMM-MyMinecraft table td.motd {
+  font-size: 50%;
+  font-weight: 100;
+}
+
+.MMM-MyMinecraft table td.version {
+  background-color: #121212;
+  font-size: 60%;
+  font-weight: 100;
+}
+
+.MMM-MyMinecraft table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
