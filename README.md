@@ -55,4 +55,7 @@ modules: <span class="pl-kos">[</span>
 
 # Screenshots
 ![image](https://github.com/framboise-pi/MMM-MyMinecraft/blob/master/Images/screenshot_MMM-MyMinecraft_01.png)
+
 # Todo
+* theme/colors to choose from
+* server thumbnail with true/false
