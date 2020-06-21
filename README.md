@@ -25,7 +25,7 @@ It works better in 'middle_center' or 'lower_third' module position.
 <p> git clone https://github.com/framboise-pi/MMM-MyMinecraft.git</p></code>
 </div>
 <div>
- <p>This command with MMM-MySenseHat folder (this will install dependencies)</p>
+ <p>This command within MMM-MyMinecraft folder (this will install dependencies)</p>
 <code>npm install</code>
 </div>
 
