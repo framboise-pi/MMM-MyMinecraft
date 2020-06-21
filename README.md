@@ -22,7 +22,7 @@ It works better in 'middle_center' or 'lower_third' module position.
 
 <div>
  <code><p>cd ~/MagicMirror/modules</p>
-<p> git clone https://github.com/framboise-pi/MMM-MySenseHat.git</p></code>
+<p> git clone https://github.com/framboise-pi/MMM-MyMinecraft.git</p></code>
 </div>
 <div>
  <p>This command with MMM-MySenseHat folder (this will install dependencies)</p>
