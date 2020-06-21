@@ -10,3 +10,8 @@
 </p>
 <p>edit <code>servers.json</code> to add/remove servers
 </p>
+
+# Dependencies
+<p>
+<li> minecraft-protocol : ^1.12.2</li>
+</p>
