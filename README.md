@@ -6,12 +6,21 @@
 <li> latency</li>
 <li> version</li>
 <li> protocol</li>
+It works better in 'middle_center' or 'lower_third' module position.
+<br>
+</p>
 
-</p>
-<p>edit <code>servers.json</code> to add/remove servers
-</p>
 
 # Dependencies
 <p>
 <li> minecraft-protocol : ^1.12.2</li>
 </p>
+
+# Configuration
+<p>edit <code>servers.json</code> to add/remove servers
+ping interval / slide interval
+</p>
+
+# Screenshots
+
+# Todo
