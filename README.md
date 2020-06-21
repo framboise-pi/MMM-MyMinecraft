@@ -51,7 +51,6 @@ modules: <span class="pl-kos">[</span>
 
 # Configuration
 <p>edit <code>servers.json</code> to add/remove servers
-ping interval / slide interval
 </p>
 
 # Screenshots
