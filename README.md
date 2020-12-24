@@ -55,6 +55,8 @@ modules: <span class="pl-kos">[</span>
 
 # Screenshots
 ![image](https://github.com/framboise-pi/MMM-MyMinecraft/blob/master/Images/screenshot_MMM-MyMinecraft_01.png)
+## Offline server display :
+![image](https://github.com/framboise-pi/MMM-MyMinecraft/blob/master/Images/MMM-MyMinecraft_offline.png)
 
 # Todo
 * theme/colors to choose from
