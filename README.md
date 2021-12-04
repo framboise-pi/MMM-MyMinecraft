@@ -1,6 +1,6 @@
 # MMM-MyMinecraft
 <p>Module for the wonderful MagicMirror from MichMich
-<br>It will display in a table, these server informations :
+<br>It will display in a table, from one or more Minecraft server(s), these server informations :
 
 <li> message of the day</li>
 <li> player online/player max</li>
